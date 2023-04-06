@@ -35,3 +35,11 @@ The basic features of the planner will include:
 Not every kitchen is built the same. We'll create a profile of your kitchen (maybe amazon connections in the future for updating?) and tailor recipes for you.
 
 When event planning, this can be used as the set location to help you plan for what can be made concurrently.
+
+
+#### General Meal Planning :stew:
+Looking for something quick and easy? Trying to figure out how many days something should last before planning something new? Members will be able to build their own meal plans (which can be shared) that can accommodate their schedules.
+
+Filter recipes by ATTC (Actual time to cook), ingredients you have, or special equipment required. 
+
+You can also rate recipes and favorite recipes for quick access and score based sorting.
