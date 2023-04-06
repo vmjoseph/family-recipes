@@ -41,5 +41,5 @@ When event planning, this can be used as the set location to help you plan for w
 Looking for something quick and easy? Trying to figure out how many days something should last before planning something new? Members will be able to build their own meal plans (which can be shared) that can accommodate their schedules.
 
 Filter recipes by ATTC (Actual time to cook), ingredients you have, or special equipment required. 
- 
+
 You can also rate recipes and favorite recipes for quick access and score based sorting.
