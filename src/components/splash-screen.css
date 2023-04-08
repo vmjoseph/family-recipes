@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Ubuntu+Mono&display=swap');
+.splash-screen{  
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgb(139,62,47);
+background: -moz-linear-gradient(0deg, rgba(139,62,47,1) 14%, rgba(128,0,32,1) 86%);
+background: -webkit-linear-gradient(0deg, rgba(139,62,47,1) 14%, rgba(128,0,32,1) 86%);
+background: linear-gradient(0deg, rgba(139,62,47,1) 14%, rgba(128,0,32,1) 86%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#8b3e2f",endColorstr="#800020",GradientType=1);
+}
+
+.splash-icon{
+    color: white;
+    font-size: 10em;
+    transform: rotateZ(-20deg)
+}
+.splash-icon-label{
+    color: white;
+    font-size: 7em;
+    max-width: 600px;
+    position: absolute;
+    top: 35%;
+    left: 47.8%;
+    font-family: 'Ubuntu Mono', monospace;
+    transform: rotateZ(-29deg)
+}
+.splash-icon-group{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+
+}
+.brand-name{
+    font-family: 'Montserrat', sans-serif;
+
+    color: white;
+    font-size: 2em;
+}
+
+.loading-dot {
+    font-size: 100px;
+    margin-top: -80px;
+    position: relative;
+    animation: ease-in-out infinite alternate;
+    animation-name: run;
+    animation-duration: 1.2s;
+  }
+  
+@keyframes run {
+    0% {
+      left: -90px;
+      color: #eee;
+    }
+    50% {
+      color: #666;
+    }
+    100% {
+      left: 90px;
+      color: #eee;
+    }
+  }
