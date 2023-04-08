@@ -1,5 +1,5 @@
 # The Family Recipe Book
-
+![](/assets/splash_long.png)
 ## Background
 There's probably a billion other projects out there like this, but sometimes you just wanna make something yourself (while also learning react). The purpose of this project is to create a family recipe book that any member can easily contribute to.
 
